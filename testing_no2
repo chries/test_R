@@ -3,5 +3,4 @@ data
 
 mean(data[,1])
 mean(data[,2])
-mean(data[,3])
 mean(data[1,])
