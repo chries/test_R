@@ -1,0 +1,6 @@
+data<-matrix(seq(1,15),3,5)
+data
+
+mean(data[,1])
+mean(data[,2])
+mean(data[,3])
